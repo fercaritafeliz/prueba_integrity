@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.rdt_TableCol{
+  background-color:#17223b;
+  color:#84ff2d
+}
+.rdt_TableCell{
+  background-color:rgb(11, 103, 165);
+}
+.rdt_TableRow{
+  background-color: aqua;
+}
+.rdt_TableFooter{
+  background-color: rgb(119, 18, 122);
+}
