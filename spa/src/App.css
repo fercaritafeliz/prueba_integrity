@@ -11,6 +11,35 @@
 .rdt_TableRow{
   background-color: aqua;
 }
-.rdt_TableFooter{
-  background-color: rgb(119, 18, 122);
+form{
+  text-align:center;
+  width: 25%;
+  border: 1px solid #ccc;
+  margin:20px;
+  padding:20px;
+}
+label{
+  font-size: 12px;
+  display: block;
+  width: 100%;
+}
+input,textarea{
+  margin-bottom: 20px;
+  width: 100%;
+  padding:10px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing:border-box;
+  box-sizing:border-box;
+}
+input:focus{
+  border:1px solid #1668c4
+}
+body{
+  background-color: #2880f3;
+  align-items: center;
+
+}
+.btn{
+  background-color: #84ff2d;
+  border-radius: 10%;
 }
